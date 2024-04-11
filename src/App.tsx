@@ -17,7 +17,7 @@ function App() {
         bgClip="text"
         mt={4}
       >
-        Welcome to DnD Kanban
+        Sprint Retro
       </Heading>
       <DarkModeIconButton position="absolute" top={0} right={2} />
       <DndProvider backend={HTML5Backend}>
